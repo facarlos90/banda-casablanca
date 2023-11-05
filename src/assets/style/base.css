@@ -142,6 +142,10 @@ body {
     width: 70px;
 }
 
+.botao--pause {
+    display: none;
+}
+
 
 /*Seção vertical*/
 .secao-vertical .cartao {
