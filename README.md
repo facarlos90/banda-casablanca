@@ -1,19 +1,28 @@
 # Conheça a Banda CasaBlanca
 
-Trata-se de um site para divulgar os trabalhos musicais da extinta Banda CasaBlanca.
+Trata-se de um site para divulgar os trabalhos musicais da minha extinta Banda CasaBlanca.
 
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Banda CasaBlanca**
+| :label: Tecnologias | html, css, javascript
+| :rocket: URL         | https://github.com/facarlos90/banda-casablanca.git
+| :fire: Desafio     | 
 
-![](https://github.com/facarlos90/banda-casablanca/blob/main/capa-projeto.png)
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://github.com/facarlos90/banda-casablanca/blob/main/capa-projeto.png#vitrinedev)
 
 ## Detalhes do projeto
 
 <p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge"/>
 </p>
 
 Projeto em desenvolvimento para colocar em prática e fixar os conhecimentos adquiridos nos Cursos "CSS: construindo layouts com Grid" e "JavaScript para Web: Crie páginas dinâmicas" da Alura. 
 
-O site irá mostar dados visuais dos álbuns criados pela banda CasaBlanca, além de reproduzir as músicas que o usuário quiser ouvir através de um clique, simulando os atuais reprodutores do mercado.
+O site irá mostar de uma forma simplória, os dados visuais dos álbuns criados pela banda CasaBlanca, além de reproduzir uma parte das músicas que o usuário quiser ouvir através de um clique, simulando os atuais reprodutores do mercado.
+
+Ps.: Trata-se do meu primeiro contato com o JavaScript, com isso, não tenho a intenção de fazer coisas mais complexas que um reprodutor de músicas exigiria...
 
 # :hammer: Funcionalidades do projeto
 
